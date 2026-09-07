@@ -1,87 +1,122 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Antoleod — Juan Carlos profile banner" />
+<img src="./assets/hero.svg" width="100%" alt="Antoleod — Juan Carlos Dioses" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=77E6F7&center=true&vCenter=true&width=900&lines=Building+systems+that+remove+friction.;Local+AI+%C2%B7+Automation+%C2%B7+Developer+Tools.;Enterprise+IT+meets+product+engineering.;Measure.+Simplify.+Automate.+Ship.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=77E6F7&center=true&vCenter=true&width=900&lines=IT+Support+Specialist+%C2%B7+Modern+Workplace+%C2%B7+Cloud;10%2B+years+turning+technical+friction+into+solutions;Microsoft+365+%C2%B7+Azure+%C2%B7+Intune+%C2%B7+ServiceNow;Enterprise+IT+%C2%B7+Automation+%C2%B7+Local+AI)](https://git.io/typing-svg)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Dioses-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-dioses)
 [![GitHub followers](https://img.shields.io/github/followers/antoleod?style=flat-square&logo=github&label=Followers)](https://github.com/antoleod?tab=followers)
 ![Profile views](https://komarev.com/ghpvc/?username=antoleod&style=flat-square&label=Profile+views)
-![Focus](https://img.shields.io/badge/focus-local--first%20AI%20%2B%20automation-111827?style=flat-square)
 
 </div>
 
-## ⚡ I build practical systems, not demo-ware
+## Professional profile
 
-I'm **Juan Carlos**, an IT specialist and developer based in Brussels. I like taking workflows that are slow, repetitive or unnecessarily complicated and turning them into tools people can actually enjoy using.
+I'm **Juan Carlos Dioses**, an **IT Support Specialist** based in Brussels with **10+ years of IT experience**, including more than five years working in Belgium and international corporate environments.
 
-My work lives at the intersection of **enterprise IT, automation, local AI, developer tooling, Android and web products**. The common thread is simple: reduce friction, make behavior observable, keep the UX clean, and ship something useful.
+My professional background spans **Modern Workplace, Microsoft 365, Azure, Active Directory, Intune, ServiceNow, Windows, networking, endpoint support and VIP user support**. Alongside enterprise IT, I build automation, developer tools, local-AI workflows and software products that turn repetitive work into simpler systems.
+
+> **Current focus:** enterprise IT operations, Modern Workplace, automation, local AI and practical product engineering.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 AI + automation
-Local-first agents, Ollama workflows, MCP integrations, safe tool execution and practical orchestration.
+### Enterprise IT
+L1–L2 support, incident and request management, endpoint deployment, migrations, troubleshooting and user-facing operations.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Enterprise tooling
-Service workflows, diagnostics, support automation, identity/device tooling and operator-first UX.
+### Modern Workplace & Cloud
+Microsoft 365, Azure, Intune, Active Directory, Exchange Online, Teams, SharePoint and OneDrive.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Product engineering
-Android and web applications designed around speed, clarity, progressive loading and real-world usability.
+### Automation & AI
+PowerShell, developer tooling, Ollama, MCP integrations, local-first agents and workflow automation.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Reliability by design
-Observability, measurable performance, secure defaults, fallback paths and systems that remain understandable.
+### Product mindset
+Performance, observability, resilience, clean UX and tools designed around real operator workflows.
 
 </td>
 </tr>
 </table>
 
-## 🚀 Current build universe
+## Experience
 
-> A growing ecosystem of tools and products — each one focused on removing a specific kind of friction.
+**IT Support Specialist · Netcompany — European Parliament environment**  
+Brussels, Belgium · **Nov 2022 – Present**
 
-| System | Mission | Direction |
-| --- | --- | --- |
-| **Oryxen / MCP ecosystem** | Connect AI models to real tools with strong control and simple local deployment. | Local AI · agents · MCP · orchestration |
-| **IT Toolkit** | Make enterprise support operations faster, clearer and less repetitive. | Service workflows · diagnostics · automation |
-| **GeoSpent** | Turn travel into a contextual, location-aware experience instead of a static checklist. | Android · maps · routes · discovery |
-| **Flowline** | Build a cleaner, more polished and progressively challenging gameplay experience. | UX · game systems · progression |
+Supporting users in an EU institutional environment across Microsoft 365, Windows 10/11, Active Directory, VPN and ServiceNow workflows. My work includes incident/request resolution, endpoint deployment and upgrades, operational documentation and user-focused technical support.
 
-## 🧬 Engineering DNA
+**Field Engineer · Avaso**  
+Benelux · **Jan 2020 – Nov 2022**
+
+Delivered remote and on-site L1/L2/L3 support across Belgium and neighboring countries, working with Microsoft 365, Active Directory, ServiceNow, Azure, Intune, SharePoint, deployments and migration projects.
+
+**ICT Consultant · Freelance**  
+Lima, Peru · **Aug 2010 – Aug 2015**
+
+Provided PC troubleshooting, networking setup and practical technology support for home users and small businesses.
+
+## Core technology
 
 <div align="center">
 
-![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=77E6F7)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=5FA8FF)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=6CC24A)
-![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows11&logoColor=5FB6FF)
-![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0F172A?style=for-the-badge&logo=microsoft365&logoColor=EA3E23)
+![Azure](https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=33A9DC)
+![Intune](https://img.shields.io/badge/Intune-0F172A?style=for-the-badge&logo=microsoft&logoColor=5FB6FF)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0F172A?style=for-the-badge&logo=windows&logoColor=77E6F7)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0F172A?style=for-the-badge&logo=servicenow&logoColor=81B5A1)
+![PowerShell](https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=77E6F7)
+![Windows](https://img.shields.io/badge/Windows-0F172A?style=for-the-badge&logo=windows11&logoColor=5FB6FF)
+![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=5FA8FF)
+![Ollama](https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
-## 📊 Signal, not vanity metrics
+## Selected build universe
+
+My GitHub is where I explore the layer beyond day-to-day IT: automation, AI-assisted workflows, mobile/web products and operator tooling.
+
+| Area | What I'm building |
+| --- | --- |
+| **Oryxen ecosystem** | Local-first tooling, publishing, AI orchestration and practical developer workflows. |
+| **Enterprise tooling** | Tools that reduce repetitive support work and improve diagnostics and operational UX. |
+| **Mobile & web** | Android and web products centered on usability, speed and contextual experiences. |
+| **AI experimentation** | MCP integrations, Ollama workflows, agents and controlled execution of real tools. |
+
+## Credentials
+
+<table>
+<tr><td><b>ITIL</b></td><td>ITIL v4 · 2023</td></tr>
+<tr><td><b>Microsoft</b></td><td>Microsoft 365 Fundamentals (MS-900)</td></tr>
+<tr><td><b>Microsoft Azure</b></td><td>Azure Fundamentals (AZ-900)</td></tr>
+<tr><td><b>Security</b></td><td>Microsoft Security, Compliance & Identity Fundamentals (SC-900)</td></tr>
+<tr><td><b>Service Management</b></td><td>ServiceNow Fundamentals · IT Service Management</td></tr>
+<tr><td><b>Hardware</b></td><td>Dell Client Foundations · 2023</td></tr>
+</table>
+
+## Languages
+
+**Spanish** · Native &nbsp;&nbsp; **English** · B2 &nbsp;&nbsp; **French** · B2 &nbsp;&nbsp; **Dutch** · B1
+
+## GitHub activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antoleod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=77e6f7&text_color=aab7cf&icon_color=9f7aea" alt="Juan Carlos GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antoleod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=00000000&title_color=77e6f7&text_color=aab7cf&icon_color=9f7aea" alt="Juan Carlos Dioses GitHub stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoleod&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=77e6f7&text_color=aab7cf" alt="Most used languages" />
 
 <br/>
@@ -90,34 +125,28 @@ Observability, measurable performance, secure defaults, fallback paths and syste
 
 </div>
 
-## 🛰️ What I optimize for
+## Engineering principles
 
-- **Speed:** startup time, response time and perceived performance matter.
-- **Clarity:** users should know what the system is doing and why.
-- **Resilience:** cache, fallback, recovery and useful logs beat mystery failures.
-- **Local-first when it makes sense:** privacy, control and low-latency execution are powerful advantages.
-- **Progressive improvement:** ship, measure, find the next bottleneck, improve again.
+```text
+Understand the problem → Measure → Simplify → Automate → Test → Ship → Improve
+```
+
+- **Useful over decorative** — features should solve a real problem.
+- **Observable over mysterious** — logs, timing and clear system state matter.
+- **Reliable over clever** — recovery and predictable behavior beat unnecessary complexity.
+- **Fast by design** — startup time and perceived performance are product features.
+- **Human-centered** — enterprise tooling should be understandable by the people operating it.
 
 <img src="./assets/mission.svg" width="100%" alt="Observe, measure, simplify, automate, ship, improve" />
 
-## 🧭 The north star
-
-```text
-Useful > impressive
-Fast > complicated
-Observable > mysterious
-Reliable > clever
-Simple to operate > technically fashionable
-```
-
 <div align="center">
 
-### Build with intent. Remove friction. Keep evolving.
+### Enterprise experience. Builder mindset.
 
-<sub>This profile is part portfolio, part engineering log, and part map of what I'm building next.</sub>
+**Modern Workplace · Cloud · Automation · Local AI · Product Engineering**
 
-<br/><br/>
+<br/>
 
-**Explore the repositories ↓**
+[![LinkedIn](https://img.shields.io/badge/Professional_profile-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-dioses)
 
 </div>
