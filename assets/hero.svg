@@ -1,57 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020805"/>
-      <stop offset="55%" stop-color="#06110b"/>
-      <stop offset="100%" stop-color="#020403"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="78%" cy="48%" r="42%">
-      <stop offset="0%" stop-color="#00ff88" stop-opacity=".18"/>
-      <stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
-  </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
-
-  <g fill="#00ff88" font-family="Consolas,Menlo,monospace" font-size="14" opacity=".16">
-    <text x="640" y="20">10100101100101001101001010010100110100101</text>
-    <text x="720" y="44">00101011010010100101100100101100101001011</text>
-    <text x="620" y="68">11001010010110010100101101001010010110100</text>
-    <text x="770" y="92">01011010010100101100101001011010010100101</text>
-    <text x="660" y="116">10100101101001010010110010100101101001010</text>
-    <text x="830" y="140">00101100101001011010010100101100101001011</text>
-    <text x="610" y="164">11010010100101100101001011010010100101100</text>
-    <text x="760" y="188">01001011010010100101100101001011010010100</text>
-    <text x="650" y="212">10110010100101101001010010110010100101101</text>
-    <text x="840" y="236">00101001011010010100101100101001011010010</text>
-    <text x="625" y="260">11001010010110100101001011001010010110100</text>
-    <text x="780" y="284">01011001010010110100101001011001010010110</text>
-    <text x="665" y="308">10100101100101001011010010100101100101001</text>
-    <text x="820" y="332">00101101001010010110010100101101001010010</text>
-  </g>
-
-  <g stroke="#00ff88" opacity=".12">
-    <path d="M625 0V360M690 0V360M755 0V360M820 0V360M885 0V360M950 0V360M1015 0V360M1080 0V360"/>
-  </g>
-
-  <circle cx="955" cy="180" r="112" fill="#00ff88" opacity=".05" filter="url(#soft)"/>
-
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="70" y="88" font-size="16" letter-spacing="5" fill="#53ff9a" opacity=".72">ANTOLEOD / SYSTEM PROFILE</text>
-    <text x="70" y="166" font-size="58" font-weight="800" fill="#ffffff">Juan Carlos Dioses</text>
-    <text x="70" y="214" font-size="24" fill="#8affba">IT · Automation · AI · Product Engineering</text>
-    <text x="70" y="274" font-size="18" fill="#d8ffe8" opacity=".78">Build useful systems. Remove friction. Keep improving.</text>
-  </g>
-
-  <g transform="translate(945 115)" fill="none" stroke="#00ff88">
-    <circle cx="62" cy="62" r="54" opacity=".26"/>
-    <circle cx="62" cy="62" r="34" opacity=".44" stroke-dasharray="4 7"/>
-    <circle cx="62" cy="62" r="5" fill="#00ff88" stroke="none"/>
-    <circle cx="62" cy="8" r="4" fill="#8affba" stroke="none">
-      <animateTransform attributeName="transform" type="rotate" from="0 62 62" to="360 62 62" dur="7s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#00ff88" stroke-opacity=".18"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#010503"/><stop offset=".55" stop-color="#03120a"/><stop offset="1" stop-color="#000201"/></linearGradient>
+ <radialGradient id="g" cx="73%" cy="48%" r="45%"><stop stop-color="#00ff88" stop-opacity=".2"/><stop offset="1" stop-color="#00ff88" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/><rect width="1200" height="420" rx="24" fill="url(#g)"/>
+<g fill="#00ff88" font-family="Consolas,monospace" font-size="13" opacity=".2">
+<text x="560" y="25">10100101 00110100 10110101 00101100 10100110</text><text x="610" y="50">00110110 11001010 01011001 10100101 00101101</text><text x="535" y="75">11001010 01011001 10100101 00101101 11010010</text><text x="665" y="100">01011001 10100101 00101101 11010010 01011010</text><text x="585" y="125">10100101 00101101 11010010 01011010 10100101</text><text x="720" y="150">00101101 11010010 01011010 10100101 00110110</text><text x="545" y="175">11010010 01011010 10100101 00110110 11001010</text><text x="635" y="200">01011010 10100101 00110110 11001010 01011001</text><text x="570" y="225">10100101 00110110 11001010 01011001 10100101</text><text x="700" y="250">00110110 11001010 01011001 10100101 00101101</text><text x="530" y="275">11001010 01011001 10100101 00101101 11010010</text><text x="650" y="300">01011001 10100101 00101101 11010010 01011010</text><text x="590" y="325">10100101 00101101 11010010 01011010 10100101</text><text x="740" y="350">00101101 11010010 01011010 10100101 00110110</text><text x="550" y="375">11010010 01011010 10100101 00110110 11001010</text><text x="675" y="400">01011010 10100101 00110110 11001010 01011001</text>
+</g>
+<circle cx="890" cy="210" r="145" fill="#00ff88" opacity=".045" filter="url(#blur)"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="64" y="70" font-size="15" letter-spacing="5" fill="#53ff9a">ANTOLEOD / SYSTEM PROFILE</text><text x="64" y="160" font-size="54" font-weight="800" fill="#fff">SAME HUMAN.</text><text x="64" y="220" font-size="54" font-weight="800" fill="#baffd6">BIGGER POSSIBILITIES.</text><text x="66" y="274" font-size="20" letter-spacing="4" fill="#00ff88">IT · AUTOMATION · AI · REAL TOOLS</text><text x="66" y="334" font-size="17" fill="#c9f8dc">Turning complex workflows into useful systems.</text></g>
+<g font-family="Consolas,monospace" font-size="14" fill="#58ffa0"><text x="955" y="130">OBSERVE</text><text x="955" y="160">LEARN</text><text x="955" y="190">BUILD</text><text x="955" y="220">AUTOMATE</text><text x="955" y="250">IMPROVE</text><text x="955" y="280">REPEAT</text></g>
+<path d="M920 105V305" stroke="#00ff88" stroke-opacity=".25"/><circle cx="920" cy="105" r="4" fill="#00ff88"><animate attributeName="cy" values="105;305;105" dur="5s" repeatCount="indefinite"/></circle>
+<rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#00ff88" stroke-opacity=".24"/>
 </svg>
