@@ -28,8 +28,6 @@ The profile must feel like a **modern technology portfolio**, not a CV pasted in
 
 ## 3. Hero contract
 
-The hero is the strongest visual element.
-
 **Primary message:**
 
 > SAME HUMAN. BIGGER POSSIBILITIES.
@@ -42,8 +40,6 @@ The hero is the strongest visual element.
 
 `Observe → Learn → Build → Automate → Improve → Repeat`
 
-The hero should communicate ambition and technical identity in under five seconds.
-
 ## 4. Content contract
 
 The README should remain intentionally short.
@@ -53,7 +49,7 @@ The README should remain intentionally short.
 1. Hero
 2. Short introduction — maximum 3 lines
 3. Tech stack
-4. Selected / featured projects
+4. Live projects
 5. Credentials — one compact line
 6. GitHub activity
 7. Short closing statement
@@ -64,6 +60,7 @@ The README should remain intentionally short.
 - Repeating CV content.
 - Unverified claims or invented metrics.
 - Private project details.
+- Projects that require internal access, a private repository, an unavailable APK, local infrastructure or credentials to experience.
 - Personal phone number, home address or unnecessary personal data.
 - More than ~5 featured projects.
 - Long explanations where a label or one sentence works.
@@ -82,21 +79,25 @@ Approved high-level facts currently include:
 - ITIL v4, MS-900, AZ-900, SC-900 and ServiceNow Fundamentals.
 - Spanish native; English B2; French B2; Dutch B1.
 
-When information changes, update this contract before presenting the new claim as fact.
+## 6. Live-project policy
 
-## 6. Featured-project policy
+A project may appear in the main profile **only when all conditions below are true**:
 
-Featured projects must demonstrate quality, range and real building activity. Prefer projects that are public, understandable and visually presentable.
+1. It is public or has a public-facing deployment.
+2. The external URL is reachable without private network access.
+3. A visitor can understand or use the product without requesting credentials.
+4. The project is not merely an APK/build artifact with no public experience.
+5. The link has been checked externally before the README is updated.
+6. The project is sufficiently complete and presentable for recruiters, engineers or potential collaborators.
 
-Current portfolio categories:
+**Verified live set:**
 
-- **Oryxen** — automation / local AI / developer tooling.
-- **IT Toolkit** — enterprise IT workflows and diagnostics.
-- **GeoSpent** — Android / travel / maps.
-- **PulseOne** — intelligent music experience.
-- **EPSO Coach** — mobile-first learning/training product.
+- **Oryxen Labs** — https://oryxen.tech
+- **MyKit** — https://oryxen.tech/mykit/
+- **Wash** — https://oryxen.tech/wash/
+- **MergePilot** — https://oryxen.tech/pilot/
 
-If a project is private, the public profile may describe the category/product at a high level but must not expose internal implementation details.
+Private/internal/incomplete products may remain in GitHub, but they must not be marketed in the profile's featured section until they pass this rule.
 
 ## 7. Quality bar — 10/10 checklist
 
@@ -108,8 +109,9 @@ Before every profile release:
 - [ ] No section duplicates information.
 - [ ] Every professional claim is factual.
 - [ ] No sensitive/private data is exposed.
-- [ ] Featured projects are current and intentional.
-- [ ] Links work.
+- [ ] Every featured project is externally reachable right now.
+- [ ] Every featured link has been manually or externally verified.
+- [ ] No private/internal-only project is marketed as available.
 - [ ] Matrix aesthetic remains subtle and professional.
 - [ ] Profile still looks credible to a recruiter, engineer and potential collaborator.
 
