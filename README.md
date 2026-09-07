@@ -33,14 +33,22 @@
 
 ### `> ls live/`
 
-| Live project | What it does |
+| Project | Status |
 |:--|:--|
-| **[Oryxen Labs](https://oryxen.tech)** | Automation, internal tools and focused web software |
-| **[MyKit](https://oryxen.tech/mykit/)** | Offline-ready personal developer toolkit |
-| **[Wash](https://oryxen.tech/wash/)** | Local browser-based sanitization of sensitive text |
-| **[MergePilot](https://oryxen.tech/pilot/)** | Visual workflow for Git merge and review operations |
+| **[Oryxen Labs](https://oryxen.tech)** | 🟢 Live |
+| **[MyKit](https://oryxen.tech/mykit/)** | 🟢 Live |
+| **[Wash](https://oryxen.tech/wash/)** | 🟢 Live |
+| **[MergePilot](https://oryxen.tech/pilot/)** | 🟢 Live |
 
-<sub>Only projects verified as public and reachable from outside are featured here.</sub>
+### `> ls evolving/`
+
+| Product | Status | Focus |
+|:--|:--|:--|
+| **GeoSpent** | 🟡 In evolution · Android APK | Travel · maps · contextual exploration |
+| **PulseOne** | 🟡 In evolution · Android APK | Intelligent music experience |
+| **EPSO Coach** | 🟡 In evolution · Android APK | Mobile-first learning & training |
+
+<sub>Live products are externally reachable. APK products are shown as active work in evolution, not as finished public releases. Private/internal projects are intentionally excluded.</sub>
 
 ### `> credentials`
 
