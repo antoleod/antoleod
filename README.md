@@ -1,64 +1,64 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Juan Carlos Dioses — IT, Automation, AI and Product Engineering" />
+<img src="./assets/hero.svg" width="100%" alt="Same human. Bigger possibilities — Juan Carlos Dioses" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Dioses-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-dioses)
-[![Portfolio](https://img.shields.io/badge/Portfolio-oryxen.tech-00B86B?style=flat-square&logo=googlechrome&logoColor=white)](https://oryxen.tech)
-[![Followers](https://img.shields.io/github/followers/antoleod?style=flat-square&logo=github&label=Followers)](https://github.com/antoleod?tab=followers)
+[![Portfolio](https://img.shields.io/badge/oryxen.tech-050a07?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://oryxen.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a07?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/juan-dioses)
+[![GitHub](https://img.shields.io/badge/Repositories-050a07?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/antoleod?tab=repositories)
 
 </div>
 
-## Hey, I'm Juan 👋
+### `> whoami`
 
-**IT Support Specialist · Modern Workplace · Automation Builder**
+**Juan Carlos Dioses** — IT Support Specialist & builder based in Brussels.  
+10+ years across enterprise IT, Modern Workplace and support; now building **automation, local AI and practical software products**.
 
-10+ years in IT, with hands-on experience across **Microsoft 365, Azure, Intune, Active Directory, ServiceNow, Windows, networking and enterprise support**. Based in Brussels and currently focused on building practical automation, local-AI workflows and useful software products.
-
-## Tech stack
+### `> stack --core`
 
 <div align="center">
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0B0F0D?style=for-the-badge&logo=microsoft365&logoColor=00FF88)
-![Azure](https://img.shields.io/badge/Azure-0B0F0D?style=for-the-badge&logo=microsoftazure&logoColor=00FF88)
-![Intune](https://img.shields.io/badge/Intune-0B0F0D?style=for-the-badge&logo=microsoft&logoColor=00FF88)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-0B0F0D?style=for-the-badge&logo=servicenow&logoColor=00FF88)
-![PowerShell](https://img.shields.io/badge/PowerShell-0B0F0D?style=for-the-badge&logo=powershell&logoColor=00FF88)
-![Python](https://img.shields.io/badge/Python-0B0F0D?style=for-the-badge&logo=python&logoColor=00FF88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0F0D?style=for-the-badge&logo=typescript&logoColor=00FF88)
-![Android](https://img.shields.io/badge/Android-0B0F0D?style=for-the-badge&logo=android&logoColor=00FF88)
-![Ollama](https://img.shields.io/badge/Ollama-0B0F0D?style=for-the-badge&logo=ollama&logoColor=00FF88)
+![M365](https://img.shields.io/badge/Microsoft_365-050a07?style=flat-square&logo=microsoft365&logoColor=00ff88)
+![Azure](https://img.shields.io/badge/Azure-050a07?style=flat-square&logo=microsoftazure&logoColor=00ff88)
+![Intune](https://img.shields.io/badge/Intune-050a07?style=flat-square&logo=microsoft&logoColor=00ff88)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-050a07?style=flat-square&logo=servicenow&logoColor=00ff88)
+![PowerShell](https://img.shields.io/badge/PowerShell-050a07?style=flat-square&logo=powershell&logoColor=00ff88)
+![Python](https://img.shields.io/badge/Python-050a07?style=flat-square&logo=python&logoColor=00ff88)
+![TypeScript](https://img.shields.io/badge/TypeScript-050a07?style=flat-square&logo=typescript&logoColor=00ff88)
+![Android](https://img.shields.io/badge/Android-050a07?style=flat-square&logo=android&logoColor=00ff88)
+![Ollama](https://img.shields.io/badge/Ollama-050a07?style=flat-square&logo=ollama&logoColor=00ff88)
 
 </div>
 
-## Selected work
+### `> ls featured/`
 
-| Project | Focus |
-| --- | --- |
-| **Oryxen** | Local-first AI, automation and developer tooling |
-| **IT Toolkit** | Enterprise support workflows and diagnostics |
-| **GeoSpent** | Android travel, maps and contextual exploration |
-| **PulseOne** | Intelligent music experience across web/mobile |
-| **EPSO Coach** | Mobile-first preparation and training platform |
+| Project | Mission |
+|:--|:--|
+| **Oryxen** | Local-first AI · automation · developer tooling |
+| **IT Toolkit** | Faster enterprise support workflows & diagnostics |
+| **GeoSpent** | Travel · Android · maps · contextual discovery |
+| **PulseOne** | Intelligent music experience for web/mobile |
+| **EPSO Coach** | Mobile-first learning & training platform |
 
-## Credentials
+### `> credentials`
 
-**ITIL v4** · **MS-900** · **AZ-900** · **SC-900** · **ServiceNow Fundamentals**
+`ITIL v4` · `MS-900` · `AZ-900` · `SC-900` · `ServiceNow Fundamentals`
 
-**Spanish** Native · **English** B2 · **French** B2 · **Dutch** B1
-
-## GitHub
+### `> git --activity`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antoleod&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00ff88&text_color=c8d5cc&icon_color=00ff88" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoleod&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=00ff88&text_color=c8d5cc" alt="Top languages" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoleod&bg_color=00000000&color=79d99e&line=00ff88&point=9affc5&area=true&hide_border=true" alt="GitHub activity" />
 
 </div>
 
+```text
+OBSERVE → LEARN → BUILD → AUTOMATE → IMPROVE → REPEAT
+```
+
 <div align="center">
 
-### Build useful things. Automate the boring parts. Keep improving.
+**`A more efficient tomorrow starts with a useful today.`**
 
 </div>
