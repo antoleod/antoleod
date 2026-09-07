@@ -13,7 +13,7 @@
 ### `> whoami`
 
 **Juan Carlos Dioses** — IT Support Specialist & builder based in Brussels.  
-10+ years across enterprise IT, Modern Workplace and support; now building **automation, local AI and practical software products**.
+10+ years across enterprise IT and Modern Workplace; building **automation, local AI and practical software products**.
 
 ### `> stack --core`
 
@@ -31,15 +31,16 @@
 
 </div>
 
-### `> ls featured/`
+### `> ls live/`
 
-| Project | Mission |
+| Live project | What it does |
 |:--|:--|
-| **Oryxen** | Local-first AI · automation · developer tooling |
-| **IT Toolkit** | Faster enterprise support workflows & diagnostics |
-| **GeoSpent** | Travel · Android · maps · contextual discovery |
-| **PulseOne** | Intelligent music experience for web/mobile |
-| **EPSO Coach** | Mobile-first learning & training platform |
+| **[Oryxen Labs](https://oryxen.tech)** | Automation, internal tools and focused web software |
+| **[MyKit](https://oryxen.tech/mykit/)** | Offline-ready personal developer toolkit |
+| **[Wash](https://oryxen.tech/wash/)** | Local browser-based sanitization of sensitive text |
+| **[MergePilot](https://oryxen.tech/pilot/)** | Visual workflow for Git merge and review operations |
+
+<sub>Only projects verified as public and reachable from outside are featured here.</sub>
 
 ### `> credentials`
 
