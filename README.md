@@ -8,56 +8,25 @@
 [![LINKEDIN](https://img.shields.io/badge/▣_LINKEDIN-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://www.linkedin.com/in/juan-dioses)
 [![REPOSITORIES](https://img.shields.io/badge/◈_REPOSITORIES-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://github.com/antoleod?tab=repositories)
 
-</div>
+<br/><br/>
+<img src="./assets/about-panel.svg" width="100%" alt="About Juan Carlos" />
+<br/>
+<img src="./assets/stack-panel.svg" width="100%" alt="Technology stack" />
+<br/>
+<img src="./assets/projects-live.svg" width="100%" alt="Live featured projects" />
 
-## `> WHO AM I?`
+<a href="https://oryxen.tech">Oryxen Labs</a> · <a href="https://oryxen.tech/mykit/">MyKit</a> · <a href="https://oryxen.tech/wash/">Wash</a> · <a href="https://oryxen.tech/pilot/">MergePilot</a>
 
-> **Juan Carlos Dioses** · IT Support Specialist & Builder · Brussels 🇧🇪  
-> **10+ years** across Enterprise IT & Modern Workplace · building automation, local AI and practical software.
-
-## `> TECH STACK`
-
-<div align="center">
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-07110c?style=for-the-badge&logo=microsoft365&logoColor=00e57c)
-![Azure](https://img.shields.io/badge/Azure-07110c?style=for-the-badge&logo=microsoftazure&logoColor=00e57c)
-![Intune](https://img.shields.io/badge/Intune-07110c?style=for-the-badge&logo=microsoft&logoColor=00e57c)
-![Windows](https://img.shields.io/badge/Windows-07110c?style=for-the-badge&logo=windows11&logoColor=00e57c)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-07110c?style=for-the-badge&logo=servicenow&logoColor=00e57c)
-![PowerShell](https://img.shields.io/badge/PowerShell-07110c?style=for-the-badge&logo=powershell&logoColor=00e57c)
-![Python](https://img.shields.io/badge/Python-07110c?style=for-the-badge&logo=python&logoColor=00e57c)
-![TypeScript](https://img.shields.io/badge/TypeScript-07110c?style=for-the-badge&logo=typescript&logoColor=00e57c)
-![Android](https://img.shields.io/badge/Android-07110c?style=for-the-badge&logo=android&logoColor=00e57c)
-![Ollama](https://img.shields.io/badge/Ollama-07110c?style=for-the-badge&logo=ollama&logoColor=00e57c)
+<br/><br/>
+<img src="./assets/projects-evolving.svg" width="100%" alt="Apps in active development" />
 
 </div>
-
-## `> FEATURED · LIVE`
-
-<table>
-<tr>
-<td width="25%" valign="top"><b>🟢 Oryxen Labs</b><br/><sub>Apps, tools & automation ecosystem.</sub><br/><br/><a href="https://oryxen.tech"><b>Visit →</b></a></td>
-<td width="25%" valign="top"><b>🟢 MyKit</b><br/><sub>Personal productivity toolkit.</sub><br/><br/><a href="https://oryxen.tech/mykit/"><b>Visit →</b></a></td>
-<td width="25%" valign="top"><b>🟢 Wash</b><br/><sub>Local sensitive-text sanitization.</sub><br/><br/><a href="https://oryxen.tech/wash/"><b>Visit →</b></a></td>
-<td width="25%" valign="top"><b>🟢 MergePilot</b><br/><sub>Visual Git merge & review workflow.</sub><br/><br/><a href="https://oryxen.tech/pilot/"><b>Visit →</b></a></td>
-</tr>
-</table>
-
-## `> IN DEVELOPMENT · APK`
-
-<table>
-<tr>
-<td width="33%" valign="top"><b>🟡 GeoSpent</b><br/><sub>Travel · maps · contextual exploration</sub><br/><br/><code>IN EVOLUTION</code></td>
-<td width="33%" valign="top"><b>🟡 PulseOne</b><br/><sub>Intelligent music experience</sub><br/><br/><code>IN EVOLUTION</code></td>
-<td width="33%" valign="top"><b>🟡 EPSO Coach</b><br/><sub>Mobile-first learning & training</sub><br/><br/><code>IN EVOLUTION</code></td>
-</tr>
-</table>
 
 > 🟢 **Live** = externally reachable · 🟡 **In evolution** = active Android/APK development · 🔒 private/internal work is intentionally not showcased.
 
-## `> CREDENTIALS`
-
 <div align="center">
+
+### `> CREDENTIALS`
 
 ![ITIL v4](https://img.shields.io/badge/ITIL_v4-07110c?style=flat-square&color=00c96b)
 ![MS-900](https://img.shields.io/badge/MS--900-07110c?style=flat-square&color=00c96b)
