@@ -54,6 +54,21 @@
 
 `ITIL v4` · `MS-900` · `AZ-900` · `SC-900` · `ServiceNow Fundamentals`
 
+### `> payout --public`
+
+Public receive addresses for bounties and paid open-source work. **Addresses only — signing keys are never published.**
+
+| Network | Public address |
+|:--|:--|
+| Ethereum · Base · BNB Smart Chain · Optimism · Polygon | `0x6003FfB4c660bF4B13bf009559BbAba163676d9F` |
+| Algorand | `7TLVBLJLK37GIOHCGSPJY5BD5IX5QUVIRRRVSEFWAX4KAAHDJ35R3TSS3A` |
+| Solana | `Dnobewcqr1hbBr74cSjaUn8AVCu3gdLmCECnD68eLSBt` |
+| TRON | `TAkB9RnnJdCsRHukN3oE5nihzjYkNnsm2i` |
+| Cardano | `addr1qxrj0vl5qa5dk3r589qn4skk7gfdrx00qzaw07zdvmuex5u8y7elgpmgmdz8gw2p8tpddusj6xv77q96uluy6ehejdfs5vsx2g` |
+| Bitcoin | `bc1qku9juk0pk2derxxnvy4mudy228vukvsmms22zn` |
+
+<sub>Always match the requested chain/token before sending a payout.</sub>
+
 ### `> git --activity`
 
 <div align="center">
