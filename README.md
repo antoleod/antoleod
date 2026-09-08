@@ -4,76 +4,91 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/oryxen.tech-050a07?style=for-the-badge&logo=googlechrome&logoColor=00ff88)](https://oryxen.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050a07?style=for-the-badge&logo=linkedin&logoColor=00ff88)](https://www.linkedin.com/in/juan-dioses)
-[![GitHub](https://img.shields.io/badge/Repositories-050a07?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/antoleod?tab=repositories)
+[![ORYXEN.TECH](https://img.shields.io/badge/↗_ORYXEN.TECH-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://oryxen.tech)
+[![LINKEDIN](https://img.shields.io/badge/▣_LINKEDIN-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://www.linkedin.com/in/juan-dioses)
+[![REPOSITORIES](https://img.shields.io/badge/◈_REPOSITORIES-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://github.com/antoleod?tab=repositories)
 
 </div>
 
-### `> whoami`
+## `> WHO AM I?`
 
-**Juan Carlos Dioses** — IT Support Specialist & builder based in Brussels.  
-10+ years across enterprise IT and Modern Workplace; building **automation, local AI and practical software products**.
+> **Juan Carlos Dioses** · IT Support Specialist & Builder · Brussels 🇧🇪  
+> **10+ years** across Enterprise IT & Modern Workplace · building automation, local AI and practical software.
 
-### `> stack --core`
+## `> TECH STACK`
 
 <div align="center">
 
-![M365](https://img.shields.io/badge/Microsoft_365-050a07?style=flat-square&logo=microsoft365&logoColor=00ff88)
-![Azure](https://img.shields.io/badge/Azure-050a07?style=flat-square&logo=microsoftazure&logoColor=00ff88)
-![Intune](https://img.shields.io/badge/Intune-050a07?style=flat-square&logo=microsoft&logoColor=00ff88)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-050a07?style=flat-square&logo=servicenow&logoColor=00ff88)
-![PowerShell](https://img.shields.io/badge/PowerShell-050a07?style=flat-square&logo=powershell&logoColor=00ff88)
-![Python](https://img.shields.io/badge/Python-050a07?style=flat-square&logo=python&logoColor=00ff88)
-![TypeScript](https://img.shields.io/badge/TypeScript-050a07?style=flat-square&logo=typescript&logoColor=00ff88)
-![Android](https://img.shields.io/badge/Android-050a07?style=flat-square&logo=android&logoColor=00ff88)
-![Ollama](https://img.shields.io/badge/Ollama-050a07?style=flat-square&logo=ollama&logoColor=00ff88)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-07110c?style=for-the-badge&logo=microsoft365&logoColor=00e57c)
+![Azure](https://img.shields.io/badge/Azure-07110c?style=for-the-badge&logo=microsoftazure&logoColor=00e57c)
+![Intune](https://img.shields.io/badge/Intune-07110c?style=for-the-badge&logo=microsoft&logoColor=00e57c)
+![Windows](https://img.shields.io/badge/Windows-07110c?style=for-the-badge&logo=windows11&logoColor=00e57c)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-07110c?style=for-the-badge&logo=servicenow&logoColor=00e57c)
+![PowerShell](https://img.shields.io/badge/PowerShell-07110c?style=for-the-badge&logo=powershell&logoColor=00e57c)
+![Python](https://img.shields.io/badge/Python-07110c?style=for-the-badge&logo=python&logoColor=00e57c)
+![TypeScript](https://img.shields.io/badge/TypeScript-07110c?style=for-the-badge&logo=typescript&logoColor=00e57c)
+![Android](https://img.shields.io/badge/Android-07110c?style=for-the-badge&logo=android&logoColor=00e57c)
+![Ollama](https://img.shields.io/badge/Ollama-07110c?style=for-the-badge&logo=ollama&logoColor=00e57c)
 
 </div>
 
-### `> ls live/`
+## `> FEATURED · LIVE`
 
-| Project | Status |
-|:--|:--|
-| **[Oryxen Labs](https://oryxen.tech)** | 🟢 Live |
-| **[MyKit](https://oryxen.tech/mykit/)** | 🟢 Live |
-| **[Wash](https://oryxen.tech/wash/)** | 🟢 Live |
-| **[MergePilot](https://oryxen.tech/pilot/)** | 🟢 Live |
+<table>
+<tr>
+<td width="25%" valign="top"><b>🟢 Oryxen Labs</b><br/><sub>Apps, tools & automation ecosystem.</sub><br/><br/><a href="https://oryxen.tech"><b>Visit →</b></a></td>
+<td width="25%" valign="top"><b>🟢 MyKit</b><br/><sub>Personal productivity toolkit.</sub><br/><br/><a href="https://oryxen.tech/mykit/"><b>Visit →</b></a></td>
+<td width="25%" valign="top"><b>🟢 Wash</b><br/><sub>Local sensitive-text sanitization.</sub><br/><br/><a href="https://oryxen.tech/wash/"><b>Visit →</b></a></td>
+<td width="25%" valign="top"><b>🟢 MergePilot</b><br/><sub>Visual Git merge & review workflow.</sub><br/><br/><a href="https://oryxen.tech/pilot/"><b>Visit →</b></a></td>
+</tr>
+</table>
 
-### `> ls evolving/`
+## `> IN DEVELOPMENT · APK`
 
-| Product | Status | Focus |
-|:--|:--|:--|
-| **GeoSpent** | 🟡 In evolution · Android APK | Travel · maps · contextual exploration |
-| **PulseOne** | 🟡 In evolution · Android APK | Intelligent music experience |
-| **EPSO Coach** | 🟡 In evolution · Android APK | Mobile-first learning & training |
+<table>
+<tr>
+<td width="33%" valign="top"><b>🟡 GeoSpent</b><br/><sub>Travel · maps · contextual exploration</sub><br/><br/><code>IN EVOLUTION</code></td>
+<td width="33%" valign="top"><b>🟡 PulseOne</b><br/><sub>Intelligent music experience</sub><br/><br/><code>IN EVOLUTION</code></td>
+<td width="33%" valign="top"><b>🟡 EPSO Coach</b><br/><sub>Mobile-first learning & training</sub><br/><br/><code>IN EVOLUTION</code></td>
+</tr>
+</table>
 
-<sub>Live products are externally reachable. APK products are shown as active work in evolution, not as finished public releases. Private/internal projects are intentionally excluded.</sub>
+> 🟢 **Live** = externally reachable · 🟡 **In evolution** = active Android/APK development · 🔒 private/internal work is intentionally not showcased.
 
-### `> credentials`
-
-`ITIL v4` · `MS-900` · `AZ-900` · `SC-900` · `ServiceNow Fundamentals`
-
-### `> payout --public`
-
-Public receive addresses for bounties and paid open-source work. **Addresses only — signing keys are never published.**
-
-| Network | Public address |
-|:--|:--|
-| Ethereum · Base · BNB Smart Chain · Optimism · Polygon | `0x6003FfB4c660bF4B13bf009559BbAba163676d9F` |
-| Algorand | `7TLVBLJLK37GIOHCGSPJY5BD5IX5QUVIRRRVSEFWAX4KAAHDJ35R3TSS3A` |
-| Solana | `Dnobewcqr1hbBr74cSjaUn8AVCu3gdLmCECnD68eLSBt` |
-| TRON | `TAkB9RnnJdCsRHukN3oE5nihzjYkNnsm2i` |
-| Cardano | `addr1qxrj0vl5qa5dk3r589qn4skk7gfdrx00qzaw07zdvmuex5u8y7elgpmgmdz8gw2p8tpddusj6xv77q96uluy6ehejdfs5vsx2g` |
-| Bitcoin | `bc1qku9juk0pk2derxxnvy4mudy228vukvsmms22zn` |
-
-<sub>Always match the requested chain/token before sending a payout.</sub>
-
-### `> git --activity`
+## `> CREDENTIALS`
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoleod&bg_color=00000000&color=79d99e&line=00ff88&point=9affc5&area=true&hide_border=true" alt="GitHub activity" />
+![ITIL v4](https://img.shields.io/badge/ITIL_v4-07110c?style=flat-square&color=00c96b)
+![MS-900](https://img.shields.io/badge/MS--900-07110c?style=flat-square&color=00c96b)
+![AZ-900](https://img.shields.io/badge/AZ--900-07110c?style=flat-square&color=00c96b)
+![SC-900](https://img.shields.io/badge/SC--900-07110c?style=flat-square&color=00c96b)
+![ServiceNow](https://img.shields.io/badge/ServiceNow_Fundamentals-07110c?style=flat-square&color=00c96b)
+
+</div>
+
+<details>
+<summary><b><code>&gt; PAYOUT ADDRESSES · PUBLIC</code></b> — for bounties & open-source work</summary>
+<br/>
+
+> Public receive addresses only. **Signing keys are never published.** Always verify the requested chain/token before sending.
+
+| Network | Public receive address |
+|:--|:--|
+| **EVM** · Ethereum · Base · BNB · Optimism · Polygon | `0x6003FfB4c660bF4B13bf009559BbAba163676d9F` |
+| **Algorand** | `7TLVBLJLK37GIOHCGSPJY5BD5IX5QUVIRRRVSEFWAX4KAAHDJ35R3TSS3A` |
+| **Solana** | `Dnobewcqr1hbBr74cSjaUn8AVCu3gdLmCECnD68eLSBt` |
+| **TRON** | `TAkB9RnnJdCsRHukN3oE5nihzjYkNnsm2i` |
+| **Cardano** | `addr1qxrj0vl5qa5dk3r589qn4skk7gfdrx00qzaw07zdvmuex5u8y7elgpmgmdz8gw2p8tpddusj6xv77q96uluy6ehejdfs5vsx2g` |
+| **Bitcoin** | `bc1qku9juk0pk2derxxnvy4mudy228vukvsmms22zn` |
+
+</details>
+
+## `> GITHUB ACTIVITY`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoleod&bg_color=07110c&color=9ccbb0&line=00e57c&point=66ffad&area=true&area_color=00b861&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
 
 </div>
 
@@ -83,6 +98,8 @@ OBSERVE → LEARN → BUILD → AUTOMATE → IMPROVE → REPEAT
 
 <div align="center">
 
-**`A more efficient tomorrow starts with a useful today.`**
+### `A MORE EFFICIENT TOMORROW STARTS WITH A USEFUL TODAY.`
+
+<sub>— antoleod</sub>
 
 </div>
