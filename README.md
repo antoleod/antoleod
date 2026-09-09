@@ -1,46 +1,68 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Same human. Bigger possibilities — Juan Carlos Dioses" />
+<img src="./assets/hero.svg" width="100%" alt="Juan Carlos Dioses — IT, Automation and AI" />
 
 <br/>
 
-[![ORYXEN.TECH](https://img.shields.io/badge/↗_ORYXEN.TECH-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://oryxen.tech)
-[![LINKEDIN](https://img.shields.io/badge/▣_LINKEDIN-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://www.linkedin.com/in/juan-dioses)
-[![REPOSITORIES](https://img.shields.io/badge/◈_REPOSITORIES-07110c?style=for-the-badge&labelColor=07110c&color=00c96b)](https://github.com/antoleod?tab=repositories)
+[![ORYXEN.TECH](https://img.shields.io/badge/ORYXEN.TECH-00E676?style=for-the-badge&logoColor=black&labelColor=050806)](https://oryxen.tech)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-00E676?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050806)](https://www.linkedin.com/in/juan-dioses)
+[![REPOSITORIES](https://img.shields.io/badge/REPOSITORIES-00E676?style=for-the-badge&logo=github&logoColor=black&labelColor=050806)](https://github.com/antoleod?tab=repositories)
 
-<br/><br/>
-<img src="./assets/about-panel.svg" width="100%" alt="About Juan Carlos" />
 <br/>
-<img src="./assets/stack-panel.svg" width="100%" alt="Technology stack" />
+
+`SYSTEM ONLINE` · `BRUSSELS / BELGIUM` · `BUILDING USEFUL SYSTEMS`
+
 <br/>
-<img src="./assets/projects-live.svg" width="100%" alt="Live featured projects" />
 
-<a href="https://oryxen.tech">Oryxen Labs</a> · <a href="https://oryxen.tech/mykit/">MyKit</a> · <a href="https://oryxen.tech/wash/">Wash</a> · <a href="https://oryxen.tech/pilot/">MergePilot</a>
+<img src="./assets/about-panel.svg" width="100%" alt="Profile overview" />
 
-<br/><br/>
-<img src="./assets/projects-evolving.svg" width="100%" alt="Apps in active development" />
+<br/>
 
-</div>
+## `01 / CAPABILITIES`
 
-> 🟢 **Live** = externally reachable · 🟡 **In evolution** = active Android/APK development · 🔒 private/internal work is intentionally not showcased.
+<img src="./assets/stack-panel.svg" width="100%" alt="Technology and capabilities" />
 
-<div align="center">
+<br/>
 
-### `> CREDENTIALS`
+## `02 / DEPLOYED SYSTEMS`
 
-![ITIL v4](https://img.shields.io/badge/ITIL_v4-07110c?style=flat-square&color=00c96b)
-![MS-900](https://img.shields.io/badge/MS--900-07110c?style=flat-square&color=00c96b)
-![AZ-900](https://img.shields.io/badge/AZ--900-07110c?style=flat-square&color=00c96b)
-![SC-900](https://img.shields.io/badge/SC--900-07110c?style=flat-square&color=00c96b)
-![ServiceNow](https://img.shields.io/badge/ServiceNow_Fundamentals-07110c?style=flat-square&color=00c96b)
+<img src="./assets/projects-live.svg" width="100%" alt="Live projects" />
 
-</div>
+**[ORYXEN LABS](https://oryxen.tech)** · **[MYKIT](https://oryxen.tech/mykit/)** · **[WASH](https://oryxen.tech/wash/)** · **[MERGEPILOT](https://oryxen.tech/pilot/)**
+
+<sub>🟢 LIVE = externally reachable and usable</sub>
+
+<br/>
+
+## `03 / ACTIVE BUILDS`
+
+<img src="./assets/projects-evolving.svg" width="100%" alt="Projects in active development" />
+
+<sub>🟡 EVOLVING = active development / Android / APK · private internal systems are intentionally excluded.</sub>
+
+<br/>
+
+## `04 / CREDENTIALS`
+
+![ITIL v4](https://img.shields.io/badge/ITIL_v4-050806?style=for-the-badge&color=00c96b)
+![MS-900](https://img.shields.io/badge/MS--900-050806?style=for-the-badge&color=00c96b)
+![AZ-900](https://img.shields.io/badge/AZ--900-050806?style=for-the-badge&color=00c96b)
+![SC-900](https://img.shields.io/badge/SC--900-050806?style=for-the-badge&color=00c96b)
+![ServiceNow](https://img.shields.io/badge/ServiceNow_Fundamentals-050806?style=for-the-badge&color=00c96b)
+
+<br/>
+
+## `05 / ACTIVITY TELEMETRY`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoleod&bg_color=050806&color=9ccbb0&line=00e57c&point=66ffad&area=true&area_color=00b861&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20%2F%20CONTRIBUTIONS" alt="GitHub contribution activity" />
+
+<br/>
 
 <details>
-<summary><b><code>&gt; PAYOUT ADDRESSES · PUBLIC</code></b> — for bounties & open-source work</summary>
+<summary><b><code>06 / PUBLIC PAYOUT ENDPOINTS</code></b> — bounties & open-source work</summary>
 <br/>
 
-> Public receive addresses only. **Signing keys are never published.** Always verify the requested chain/token before sending.
+> Public receive addresses only. Signing keys are never published. Verify the requested chain/token before sending.
 
 | Network | Public receive address |
 |:--|:--|
@@ -53,22 +75,17 @@
 
 </details>
 
-## `> GITHUB ACTIVITY`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoleod&bg_color=07110c&color=9ccbb0&line=00e57c&point=66ffad&area=true&area_color=00b861&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
-
-</div>
+<br/>
 
 ```text
-OBSERVE → LEARN → BUILD → AUTOMATE → IMPROVE → REPEAT
+INPUT      OBSERVE → LEARN
+PROCESS    BUILD → AUTOMATE → IMPROVE
+OUTPUT     USEFUL SYSTEMS
+LOOP       REPEAT
 ```
-
-<div align="center">
 
 ### `A MORE EFFICIENT TOMORROW STARTS WITH A USEFUL TODAY.`
 
-<sub>— antoleod</sub>
+<sub>ANTOLEOD · BUILD / AUTOMATE / SHIP</sub>
 
 </div>
