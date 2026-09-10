@@ -20,10 +20,6 @@
 ## `03 / ACTIVE BUILDS`
 <img src="./assets/projects-evolving.svg" width="100%" alt="Projects in active development" />
 
-**OPEN SOURCE:** Contributor to **[RustChain](https://github.com/Scottcjn/Rustchain)** · Proof-of-Antiquity / hardware-security improvements
-
-<sub>RustChain profile mention added through a 2 RTC contributor bounty.</sub>
-
 <sub>🟡 EVOLVING · active Android / APK development · private internal systems intentionally excluded</sub>
 
 ## `04 / CREDENTIALS`
